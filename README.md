@@ -33,7 +33,7 @@ Parent Hardware
 ---------------
 As this is a culmination of existing OSS hardware, it's only appropriate to
 list the "donors" here.  The hardware here basically consists of stripped
-down Arduino Uno R3, Adafruit Motor Shield V2, and some additional DAC
+down Adafruit Motor Shield V2, and some additional DAC
 conversions and voltage regulation for +/-10v analog DC output.
 
 
