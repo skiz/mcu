@@ -1,4 +1,4 @@
-update=Friday, June 09, 2017 'AMt' 11:13:33 AM
+update=Thursday, June 15, 2017 'PMt' 06:39:03 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../libraries
+LibDir=../libraries;MCU.pretty
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,5 +60,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=TB6612FNG_O_C_8_EL
 LibName31=PCA9685PW
-LibName32=freetronics_schematic
-LibName33=ua78m10
+LibName32=ua78m10
+LibName33=arduino_shield
